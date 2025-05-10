@@ -12,7 +12,7 @@ Este é um simples aplicativo de linha de comando (CLI) escrito em Go que conver
 
 ## Pré-requisitos
 
-*   **Go**: Versão 1.24.3 ou superior instalada. Você pode baixar em [golang.org](https://golang.org/dl/).
+*   **Go**: Versão 1.24.3 ou superior instalada. Você pode baixar em [go.dev](https://go.dev/dl/).
 *   **Conexão com a Internet**: Necessário para buscar as taxas de câmbio da API.
 
 ## Como Usar
